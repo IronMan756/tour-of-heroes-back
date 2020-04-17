@@ -42,10 +42,10 @@ $ docker network create heroes-network
 
 # To start project, run code
 $ docker-compose up
-
+```bash
 ## Mock hero's names
 
-```bash
+
 # 'Dr Nice' 
 # 'Narco' 
 # 'Bombasto'

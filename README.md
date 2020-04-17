@@ -46,7 +46,7 @@ $ npm install
 ```
 
 
-Mock hero's names
+## Mock hero's names
 ```bash
 'Dr Nice' 
 'Narco' 

@@ -39,20 +39,22 @@ $ npm install
 ```bash
 # Create network Heroes, run code
 $ docker network create heroes-network
-
+```
+```bash
 # To start project, run code
 $ docker-compose up
-```bash
-## Mock hero's names
+```
 
 
-# 'Dr Nice' 
-# 'Narco' 
-# 'Bombasto'
-# 'Celeritas' 
-# 'Magneta' 
-# 'RubberMan' 
-# 'Dynama' 
-# 'Dr IQ' 
-# 'Magma' 
-# 'Tornado' 
+Mock hero's names
+
+'Dr Nice' 
+'Narco' 
+'Bombasto'
+'Celeritas' 
+'Magneta' 
+'RubberMan' 
+'Dynama' 
+'Dr IQ' 
+'Magma' 
+'Tornado' 

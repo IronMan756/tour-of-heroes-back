@@ -38,11 +38,11 @@ $ npm install
 
 ```bash
   Create network Heroes, run code
-  docker network create heroes-network
+      docker network create heroes-network
 ```
 ```bash
   To start project, run code
-  docker-compose up
+      docker-compose up
 ```
 
 

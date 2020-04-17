@@ -37,17 +37,17 @@ $ npm install
 ## Running the app
 
 ```bash
-# Create network Heroes, run code
-$ docker network create heroes-network
+  Create network Heroes, run code
+  docker network create heroes-network
 ```
 ```bash
-# To start project, run code
-$ docker-compose up
+  To start project, run code
+  docker-compose up
 ```
 
 
 Mock hero's names
-
+```bash
 'Dr Nice' 
 'Narco' 
 'Bombasto'
@@ -58,3 +58,4 @@ Mock hero's names
 'Dr IQ' 
 'Magma' 
 'Tornado' 
+```

@@ -40,6 +40,6 @@ $ npm install
 # Create network Heroes, run code
 $ docker network create heroes-network
 
-# To start project. run code
+# To start project, run code
 $ docker-compose up
 
